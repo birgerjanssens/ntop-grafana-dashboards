@@ -29,7 +29,9 @@ To use these Grafana dashboards with your ntopng data, follow these steps:
 
 4. **Configure data source**: Configure ntopng (InfluxDB) as a data source in Grafana. Provide the necessary connection details, such as the URL, port, and authentication credentials.
 
-5. **View and analyze data**: Once the dashboards are imported and the data source is configured, you can start viewing and analyzing your ntopng data. Use the historical data dashboard for comparing historical data and generating alerts. Utilize the live data dashboard to monitor the network's current state and track real-time metrics.
+5. **Update SNMP and interface data**: Editing the queries within will be manditory, take into account the interface number (within ntop) and SNMP ip adresses and interface numbers
+
+6. **View and analyze data**: Once the dashboards are imported and the data source is configured, you can start viewing and analyzing your ntopng data. Use the historical data dashboard for comparing historical data and generating alerts. Utilize the live data dashboard to monitor the network's current state and track real-time metrics.
 
 ## License
 
