@@ -8,14 +8,15 @@ This repository contains Grafana dashboards designed to visualize ntopng data. T
 
 The historical data dashboard is designed to provide a comprehensive view of the network's historical data. It includes various metrics and visualizations that help analyze past network performance and trends. This dashboard is particularly useful for comparing historical data and identifying any anomalies or patterns.
 
-![2023-05-21 21_03_05-Presentatie project demo pptx - PowerPoint](https://github.com/birgerjanssens/ntop-grafana-dashboards/assets/91627590/bea03b31-ba41-4d4d-a6fa-1c6d113d9290)
+![HistoricalDashboard](https://github.com/birgerjanssens/ntop-grafana-dashboards/assets/91627590/1f110376-ace6-4af5-b794-46dcd70f4619)
 
 
 ### 2. Live Data Dashboard
 
 The live data dashboard focuses on displaying real-time information about the network's current state. It provides up-to-date metrics and visualizations that enable monitoring network activity as it happens. This dashboard is particularly helpful for gaining insights into the current network status, identifying bottlenecks, and assessing overall performance.
 
-![2023-05-21 21_04_09-Network DMS Brugge _ Live - Dashboards - Grafana – Mozilla Firefox](https://github.com/birgerjanssens/ntop-grafana-dashboards/assets/91627590/168c5110-7bc2-4a5f-b0dc-42683a8dfb0a)
+![LiveDashboard](https://github.com/birgerjanssens/ntop-grafana-dashboards/assets/91627590/c07e76ea-4a03-4b6b-ae3b-2c3ffcac11a7)
+
 
 ## Getting Started
 
